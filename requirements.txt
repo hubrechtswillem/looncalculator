@@ -1,4 +1,7 @@
 streamlit
-pandas
-openpyxl
 matplotlib
+numpy
+pandas
+plotly
+reportlab
+openpyxl
